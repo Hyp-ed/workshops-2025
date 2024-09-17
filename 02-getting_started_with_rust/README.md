@@ -12,7 +12,7 @@ Good question
 
 To get started with this workshop and the rest of your time in the Software team, you will need to install Rust. Luckily this is very easy, and completely cross-platform.
 
-Our [Getting Started With Rust Wiki page](https://github.com/Hyp-ed/hyped-2025/wiki/Getting-Started-with-Rust) has a guide on how to install Rust on your machine. If you have any problems, please ask the Head of Software, one of the Project Leads, or any of the other Software team members who have already installed Rust!
+Our [Getting Started With Rust Wiki page](https://github.com/Hyp-ed/hyped-2025/wiki/Getting-Started-with-Rust) has a guide on how to install Rust on your machine, you can also find the guide [here](./install_guide.md). If you have any problems, please ask the Head of Software, one of the Project Leads, or any of the other Software team members who have already installed Rust!
 
 ## Projects
 
