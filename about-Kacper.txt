@@ -1,0 +1,3 @@
+1. My name is Kacper
+2. I do Rust
+3. I do GitHub sometimes so I'm doing this as a refresher
